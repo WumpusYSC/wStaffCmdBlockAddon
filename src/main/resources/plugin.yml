@@ -1,0 +1,4 @@
+name: wStaffCmdBlockAddon
+version: '${project.version}'
+main: cc.wumpus.wstaffcmdblockaddon.WStaffCmdBlockAddon
+api-version: '1.20'
